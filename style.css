@@ -1,0 +1,11 @@
+.fira {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.cs_crosshair {
+    cursor: url("data:image/x-icon;base64,AAACAAEAICACAAgACAAwAQAAFgAAACgAAAAgAAAAQAAAAAEAAQAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAwAAAAMAAAADAAAAAwAAAAAAAAAAAAAB8D4AAfA+AAAAAAAAAAAAAAMAAAADAAAAAwAAAAMAAAADAAAAAAAAA///////////////////////////////////////////////////////////////////////////+H////h////4f///+H////h////4f///+H///AeA//wHgP/8B4D//AeA///4f///+H////h////4f///+H////h////4f//8="),
+      auto;
+  }
+
+audio { display:none;}
+

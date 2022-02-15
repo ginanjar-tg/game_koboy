@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WILD WEST GAME</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class="cs_crosshair">
+    <script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
+    <div class="bg-gray-900 h-full">
+      <div class="fira text-white text-2xl md:text-5xl text-center py-10">
+        🌵 WILD WEST GAME 🌵
+      </div>
+      <div class="flex text-white fira">
+        <div class="m-auto text-center">
+          <p>Rules : You must shoot all the dog on the picture to win</p>
+          <p>Play the music for better experience</p>
+          <audio controls loop="true" autoplay="autoplay">
+            <source src="./src/wildwest.mp3" type="audio/mpeg" />
+          </audio>
+        </div>
+      </div>
+      <br />
+      <div class="px-5 py-10 md:py-5 h-full">
+        <img src="./src/879155.jpg" class="bg-cover rounded" />
+      </div>
+    </div>
+
+    <script type="module" src="./src/index.js"></script>
+  </body>
+</html>
